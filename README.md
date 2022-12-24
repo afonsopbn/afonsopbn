@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ##
 <div align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+ <img src="https://github.com/afonsopbn/afonsopbn/blob/output/github-contribution-grid-snake.svg"/>
 </div>
